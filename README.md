@@ -56,4 +56,4 @@ proyecto_comparativa_25_26/
 
 ## Ejemplo
 
-![Prueba inicial](outputs/dashboard/jornada_1/mi_imagen.png)
+![Prueba inicial](outputs/dashboards/jornada_1/Comparativa_extremos_j1.png)
