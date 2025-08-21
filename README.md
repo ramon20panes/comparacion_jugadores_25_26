@@ -23,6 +23,7 @@ Los gráficos se exportan como imágenes de alta calidad listos para informes o 
 1. Clona este repositorio:
 
 git clone https://github.com/tu_usuario/comparativa_extremos.git
+
 cd proyecto_comparativa_25_26
 
 
@@ -30,29 +31,53 @@ cd proyecto_comparativa_25_26
 
 proyecto_comparativa_25_26/
 │
+
 ├── notebooks/
+
 │   └── comparativa_extremos.ipynb   # Notebook principal de visualización
+
 │
+
 ├── utils/
+
 │   ├── visualizaciones.py           # Funciones generales de gráficos
+
 │   └── visualizaciones_ext.py       # Funciones específicas para extremos
+
 │
+
 ├── data/
+
 │   ├── masters/                     # CSVs maestros (ids jugadores, etc.)
+
 │   ├── matches/                     # CSVs de eventos por partido (ignorado en git)
+
 │
+
 ├── images/
+
 │   └── logos/                       # Escudos
+
 │   └── flags/                       # Banderas
+
 │   └── players/                     # Fotos de juggadores
+
 │
+
 ├── outputs/
+
 │   └── dashboards/                  # PNGs exportados hoja 1
+
 │   └── tablas/                      # PNGs exportados hoja 2
+
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
+
 
 ## Ejemplo
 
