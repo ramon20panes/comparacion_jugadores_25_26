@@ -56,5 +56,5 @@ proyecto_comparativa_25_26/
 
 ## Ejemplo
 
-[Primer ejemplo](Comparativa_extremos_j1.png)
+outputs/dashboards/jornada_1/Comparativa_extremos_j1.png
 
