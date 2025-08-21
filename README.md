@@ -21,7 +21,7 @@ Los gráficos se exportan como imágenes de alta calidad listos para informes o 
 ## 🚀 Instalación
 
 1. Clona este repositorio:
-```bash
+
 git clone https://github.com/tu_usuario/comparativa_extremos.git
 cd proyecto_comparativa_25_26
 
