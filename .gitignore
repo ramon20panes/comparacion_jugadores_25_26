@@ -209,7 +209,7 @@ __marimo__/
 
 # === Carpetas a ignorar del proyecto ===
 docs/
-"objetos perdidos"/
+objetos perdidos/
 
 # === Notebooks a ignorar ===
 notebooks/scraper_fbref.ipynb

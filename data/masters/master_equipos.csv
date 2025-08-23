@@ -1,5 +1,5 @@
 ﻿teamID;nombre_equipo;acronimo;color_primario;logo_local;logo_url_src
-26886;Espana_W;ESP;#AA151B;images/logos/espana.png;https://tmssl.akamaized.net//images/flagge/head/157.png?lm=1520611569
+26886;Espana_W;ESPW;#AA151B;images/logos/espana.png;https://tmssl.akamaized.net//images/flagge/head/157.png?lm=1520611569
 338;Espana_M;ESP;#AA151B;images/logos/espana.png;https://tmssl.akamaized.net//images/flagge/head/157.png?lm=1520611569
 53;Athletic Club;ATH;#D6001C;images/logos/ath.png;https://tmssl.akamaized.net//images/wappen/head/621.png?lm=1695069038
 63;Atletico;ATM;#A60000;images/logos/atm.png;https://tmssl.akamaized.net//images/wappen/head/621.png?lm=1695069038
@@ -15,10 +15,11 @@
 67;Sevilla;SEV;#D10000;images/logos/sev.png;https://tmssl.akamaized.net//images/wappen/head/368.png?lm=1730896593
 131;Osasuna;OSA;#9D0B1E;images/logos/osa.png;https://tmssl.akamaized.net//images/wappen/head/331.png?lm=1686070937
 64;Rayo Vallecano;RAY;#D91C2A;images/logos/ray.png;https://tmssl.akamaized.net//images/wappen/head/367.png?lm=1653488445
-55;Valencia;VAL;#F18E00;imáges/logos/val.png;https://tmssl.akamaized.net//images/wappen/head/1049.png?lm=1406966320
+55;Valencia;VAL;#F18E00;images/logos/val.png;https://tmssl.akamaized.net//images/wappen/head/1049.png?lm=1406966320
 839;Villarreal;VIL;#FFF300;images/logos/vil.png;https://tmssl.akamaized.net//images/wappen/head/1050.png?lm=1408655310
 60;Deportivo Alaves;ALA;#005BAC;images/logos/ala.png;https://tmssl.akamaized.net//images/wappen/head/1108.png?lm=1596131395
 61;Real Oviedo;OVI;#003087;images/logos/ovi.png;https://tmssl.akamaized.net//images/wappen/head/2497.png?lm=1417193316
 833;Elche;ELC;#1E5631;images/logos/elc.png;https://tmssl.akamaized.net//images/wappen/head/1531.png?lm=1421955260
-832;Levante;LEV;#002868;images/logo/lev.png;https://tmssl.akamaized.net//images/wappen/head/3368.png?lm=1408655062
-167;City;MCI;#6CABDD;images/logo/mci.png;https://tmssl.akamaized.net//images/wappen/head/281.png?lm=1467356331
+832;Levante;LEV;#002868;images/logos/lev.png;https://tmssl.akamaized.net//images/wappen/head/3368.png?lm=1408655062
+167;City;MCI;#6CABDD;images/logos/mci.png;https://tmssl.akamaized.net//images/wappen/head/281.png?lm=1467356331
+31221;Barcelona_W;FCBW;#004D98;images/logos/fcb.png;https://tmssl.akamaized.net//images/wappen/head/131.png?lm=1406739548
